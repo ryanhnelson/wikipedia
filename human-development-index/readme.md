@@ -9,6 +9,11 @@ I want to develop graphics showing the Human Development Index (HDI) over time, 
 
 We'll see how far this goes.
 
+## IMPORTANT NOTE
+
+**This project is going to use Packrat for R package management. So it's got extra directories and all the packages are maintained there for reproducibility. This is normally overkill but I wanted to practice on that, too.**
+
 ## File list
 
  * **Human development index (HDI).csv** : The raw data, downloaded from the United Nations Development Programme's Human Development Reports (http://hdr.undp.org/en/data)
+ * **WPP2015_POP_F01_1_TOTAL_POPULATION_BOTH_SEXES.xls** : Raw data for United Nations World Population Prospects.
