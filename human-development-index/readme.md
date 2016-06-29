@@ -11,5 +11,4 @@ We'll see how far this goes.
 
 ## File list
 
- * Human development index (HDI).csv : The raw data, downloaded from the United Nations Development Programme's Human Development Reports (http://hdr.undp.org/en/data)
- 
+ * **Human development index (HDI).csv** : The raw data, downloaded from the United Nations Development Programme's Human Development Reports (http://hdr.undp.org/en/data)
